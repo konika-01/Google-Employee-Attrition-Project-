@@ -1,4 +1,4 @@
-# Google-Employee-Attrition-Project-
+# Google Employee Attrition Project
 
 Overview: This project leverages logistic regression to analyze employee attrition, aiming to uncover the key drivers behind employee turnover, forecast potential future departures, and formulate targeted strategies to enhance retention of high-value employees.
 
